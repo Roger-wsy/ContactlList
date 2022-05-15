@@ -1,6 +1,6 @@
 # Contact List
 
-Contact List for Vimigo Sdn. Bhd interview technical test.
+Contact List application using Flutter.
 Disclaimer: I know the app isnt fully completed with all features but due to hectic schedule of my academic calender I choose to submit in this form.
 
 ## Flutter  plugins used
