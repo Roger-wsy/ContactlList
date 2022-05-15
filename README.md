@@ -1,16 +1,10 @@
-# abc
+# Contact List
 
-A new Flutter project.
+Contact List for Vimigo Sdn. Bhd interview technical test.
+Disclaimer: I know the app isnt fully completed with all features but due to hectic schedule of my academic calender I choose to submit in this form.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Flutter  plugins used
+1. flutter share
+2. intl
+3. timeago
+4. pull-to-refresh
